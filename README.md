@@ -13,9 +13,9 @@ Desenvolvedor **full stack** e **Engenheiro Civil**. A engenharia me ensinou a e
 ## 🛠️ Stack principal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,vue,nodejs,express,mysql&perline=9" alt="PHP, Laravel, JavaScript, TypeScript, React, Vue, Node.js, Express, MySQL" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,vue,tailwind&perline=7" alt="PHP, Laravel, JavaScript, TypeScript, React, Vue, Tailwind" />
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=tailwind,flutter,dart,firebase,docker,linux,git,githubactions,aws&perline=9" alt="Tailwind, Flutter, Dart, Firebase, Docker, Linux, Git, GitHub Actions, AWS" />
+  <img src="https://skillicons.dev/icons?i=nodejs,mysql,docker,linux,git,aws&perline=6" alt="Node.js, MySQL, Docker, Linux, Git, AWS" />
 </p>
 
 ## 🚀 Projetos em destaque
