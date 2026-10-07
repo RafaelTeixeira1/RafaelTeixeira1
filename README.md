@@ -1,13 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Rafael%20Teixeira&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Desenvolvedor%20Full%20Stack&descSize=20&descAlignY=58" alt="Rafael Teixeira - Desenvolvedor Full Stack" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Rafael%20Teixeira&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Desenvolvedor%20Full%20Stack%20%7C%20Engenheiro%20Civil&descSize=20&descAlignY=58" alt="Rafael Teixeira - Desenvolvedor Full Stack | Engenheiro Civil" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RafaelTeixeira1&label=visitas&color=1f7a5a&style=flat" alt="visitas" />
-</p>
+Olá, eu sou o Rafael 👋 **Engenheiro Civil** e desenvolvedor focado em **aplicações web full stack**, com experiência prática em **infraestrutura de redes e segurança**.
 
-Olá, eu sou o Rafael 👋 Desenvolvedor focado em **aplicações web full stack**, com experiência prática em **infraestrutura de redes e segurança**.
-
+- 👷 Engenheiro Civil: uso a vivência de obra para criar software para a construção civil, como o [PadrãoCerto](https://github.com/RafaelTeixeira1/padraocerto)
 - 🎓 Estudante de Bacharelado em Sistemas de Informação no **IF Goiano (Campus Ceres)**
 - 🏗️ Construo sistemas que resolvem problemas reais, de um ERP comercial a um app para registrar focos de incêndio em campo
 - 🔌 Trabalho com APIs REST, Laravel, React, Vue e Flutter
@@ -36,16 +33,14 @@ Olá, eu sou o Rafael 👋 Desenvolvedor focado em **aplicações web full stack
 ## 📊 Estatísticas
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=RafaelTeixeira1&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
+  <img src="https://streak-stats.demolab.com/?user=RafaelTeixeira1&theme=tokyonight&hide_border=true&locale=pt_BR&hide_current_streak=true&hide_longest_streak=true" alt="Total de contribuições" />
 </p>
 
 ## 🤝 Conecte-se comigo
 
 <p align="left">
   <a href="https://github.com/RafaelTeixeira1"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <!-- Troque SEU-PERFIL pelo seu usuário do LinkedIn e remova as marcas de comentário:
-  <a href="https://www.linkedin.com/in/SEU-PERFIL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  -->
+  <a href="https://www.linkedin.com/in/rafael-de-souza-teixeira/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" alt="" width="100%" />
