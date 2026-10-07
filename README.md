@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Rafael%20Teixeira&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Desenvolvedor%20Full%20Stack&descSize=20&descAlignY=58" alt="Rafael Teixeira - Desenvolvedor Full Stack" width="100%" />
 </p>
 
-Olá, eu sou o Rafael, desenvolvedor focado em **aplicações web full stack** e **Engenheiro Civil**, com experiência prática em **infraestrutura de redes e segurança**.
+Desenvolvedor **full stack** e **Engenheiro Civil**. A engenharia me ensinou a entender bem o problema antes de começar a construir, e levo isso para o código: levantar requisitos, desenhar o processo e entregar algo que funcione na prática. Meu foco hoje são sistemas web com Laravel, React e Vue, além de apps mobile com Flutter. Também tenho experiência com **infraestrutura de redes e segurança**, o que me ajuda a enxergar a aplicação inteira, do banco de dados ao servidor onde ela roda.
 
 - 🎓 Estudante de Bacharelado em Sistemas de Informação no **IF Goiano (Campus Ceres)**
 - 👷 Engenheiro Civil: uso a vivência de obra para criar software para a construção civil, como o [PadrãoCerto](https://github.com/RafaelTeixeira1/padraocerto)
