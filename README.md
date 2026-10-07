@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Rafael%20Teixeira&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Desenvolvedor%20Full%20Stack%20%7C%20Engenheiro%20Civil&descSize=20&descAlignY=58" alt="Rafael Teixeira - Desenvolvedor Full Stack | Engenheiro Civil" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Rafael%20Teixeira&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Desenvolvedor%20Full%20Stack&descSize=20&descAlignY=58" alt="Rafael Teixeira - Desenvolvedor Full Stack" width="100%" />
 </p>
 
 Olá, eu sou o Rafael 👋 **Engenheiro Civil** e desenvolvedor focado em **aplicações web full stack**, com experiência prática em **infraestrutura de redes e segurança**.
 
-- 👷 Engenheiro Civil: uso a vivência de obra para criar software para a construção civil, como o [PadrãoCerto](https://github.com/RafaelTeixeira1/padraocerto)
 - 🎓 Estudante de Bacharelado em Sistemas de Informação no **IF Goiano (Campus Ceres)**
+- 👷 Engenheiro Civil: uso a vivência de obra para criar software para a construção civil, como o [PadrãoCerto](https://github.com/RafaelTeixeira1/padraocerto)
 - 🏗️ Construo sistemas que resolvem problemas reais, de um ERP comercial a um app para registrar focos de incêndio em campo
 - 🔌 Trabalho com APIs REST, Laravel, React, Vue e Flutter
 - 🐳 Uso Docker e GitHub Actions para padronizar ambientes e automatizar entregas
